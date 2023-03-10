@@ -1,0 +1,3 @@
+This is a test file.
+It contains some text that we will read and write to another file.
+The purpose of this file is to demonstrate character streams in Java.
